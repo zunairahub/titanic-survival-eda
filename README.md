@@ -12,4 +12,4 @@ Exploratory data analysis on the Titanic dataset to identify key survival predic
 Python · Pandas · Seaborn · Matplotlib · Kaggle
 
 ## Notebook
-[View on Kaggle](https://www.kaggle.com/code/thekaggleworld/titanic-survival-analysis-eda)
+[View on Kaggle](https://www.kaggle.com/code/thekaggleworld/titanic-survival-analysis-eda) 
